@@ -133,7 +133,11 @@ pdflatex tarea3.tex
 
 ## 📬 Contacto
 
-**GitHub:** [@jayss1e](https://github.com/jayss1e)
+## 📬 Contacto
+
+**GitHub:** [@jayss1e](https://github.com/jayss1e)  
+**Instagram:** [@anillo_conmutativo](https://www.instagram.com/anillo_conmutativo)  
+**Correo:** ricardoleonmartinez623 [at] gmail.com
 
 ---
 
